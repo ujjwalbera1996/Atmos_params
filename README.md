@@ -1,7 +1,6 @@
 # Atmos_params
 This is my first repository on Analysis of Atmospheric Parameters for different stations.
-
-1. Introduction
+1. Introduction   
 
 Collection of past 20 years data-sets of Rainfall, Relative Humidity & Temperature of 9 different
 stations across India as Inland, East-Coast, and West-Coast. The cities taken are Delhi, Jaipur,
