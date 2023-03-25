@@ -1,6 +1,6 @@
 # Atmos_params
 This is my first repository on Analysis of Atmospheric Parameters for different stations.
-1. Introduction   
+● Introduction   
 
 Collection of past 20 years data-sets of Rainfall, Relative Humidity & Temperature of 9 different
 stations across India as Inland, East-Coast, and West-Coast. The cities taken are Delhi, Jaipur,
@@ -21,14 +21,14 @@ characteristics of data of Rainfall, Relative Humidity & Temperature.
 
 
 
-Objective: Developing a Visualization tool in python for understanding the seasonal variation of
+● Objective: Developing a Visualization tool in python for understanding the seasonal variation of
 meteorological variables.
 
 
-Visual Representation of Atmospheric Variables which is already in my atmos_params.ipnyb file
+● Visual Representation of Atmospheric Variables which is already in my atmos_params.ipnyb file
 
 
-Result and Discussion
+● Result and Discussion
 
 It can be seen with the help of graphical visualization that in Inland the variation of
 temperature during the Pre-monsoon season is between 26 to 32°C, the Monsoon season is
